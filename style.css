@@ -406,6 +406,11 @@ footer .social-media {
     font-weight: bold;
     text-align: center;
 }
+.comision-content td {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    text-align: center;
+}
 
 /* Calendario */
 .contenedor-responsivo {
